@@ -1,0 +1,15 @@
+# Keep secrets, local environments and generated data out of the image.
+.env
+.env.*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+chroma_db/
+logs/
+tests/
+.git/
+.github/
+*.docx
