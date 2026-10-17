@@ -94,3 +94,7 @@ The workflow pushes `ghcr.io/rishichamp/customer-support-chatbot:latest` on ever
 
 - Sessions and rate-limit buckets live in memory, per worker process. Use Redis to share them across workers or instances.
 - Built as part of Module 4 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
